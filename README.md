@@ -1,2 +1,3 @@
 Contoh upload
-Upload ke 2 
+
+upload ke sekian 
